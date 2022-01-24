@@ -1,0 +1,26 @@
+---
+sections:
+  - description: 'List configuration'
+    task: 'list configuration'
+    args:
+      tags: ['all']
+
+  - description: 'List certificate'
+    task: 'list certificate'
+
+  - description: 'Show-template values'
+    task: 'show-template values'
+
+  - description: 'Show devices'
+    task: 'show devices'
+
+  - description: 'Show state'
+    task: 'show state'
+    args:
+      cmd: ['all']
+
+  - description: 'Show stats'
+    task: 'show statistics'
+    args:
+      cmd: ['app-route', 'stats']
+...

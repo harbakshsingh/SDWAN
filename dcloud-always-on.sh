@@ -1,0 +1,6 @@
+export VMANAGE_IP='131.226.217.141'
+export VMANAGE_USER='devnetuser'
+export VMANAGE_PASSWORD='RG!_Yw919_83'
+export VMANAGE_PORT=443
+export CX_PID=0
+
